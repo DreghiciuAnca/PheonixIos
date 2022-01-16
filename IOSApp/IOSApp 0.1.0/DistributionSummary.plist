@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IOSApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<true/>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>23BCDF1E11ECF174F8437A5E58784158CD08C33D</string>
+				<key>dateExpires</key>
+				<string>12/2/22</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>NQP7F5W2P4.com.sunkara.phoenix</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>NQP7F5W2P4</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>NQP7F5W2P4.com.sunkara.phoenix</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>IOSApp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>7ef9f632-85ec-4adf-bbf4-8424167dda3b</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.sunkara.phoenix</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>NQP7F5W2P4</string>
+				<key>name</key>
+				<string>Srinivasu Sunkara</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

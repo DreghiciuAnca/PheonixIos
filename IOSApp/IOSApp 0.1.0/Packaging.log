@@ -1,0 +1,201 @@
+2021-12-07 20:25:39 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7f8a855142d0; archive(resolved)='<IDEArchive: 0x7f8a70757940>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a887a91e0>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8a85542270; teamID='NQP7F5W2P4', teamName='Srinivasu Sunkara', teamType='Individual', username='vasu@vanthena.com', isFreeProvisioningTeam='0'>'>
+	Chain (12, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7f8a855142d0; archive = '<IDEArchive: 0x7f8a70757940>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a887a91e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8a85542270; teamID='NQP7F5W2P4', teamName='Srinivasu Sunkara', teamType='Individual', username='vasu@vanthena.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7f8a707f53d0; archive = '<IDEArchive: 0x7f8a70757940>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a887a91e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8a85542270; teamID='NQP7F5W2P4', teamName='Srinivasu Sunkara', teamType='Individual', username='vasu@vanthena.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8a85d15920; archive = '<IDEArchive: 0x7f8a70757940>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a887a91e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8a85542270; teamID='NQP7F5W2P4', teamName='Srinivasu Sunkara', teamType='Individual', username='vasu@vanthena.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8a855233f0; archive = '<IDEArchive: 0x7f8a70757940>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a887a91e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8a85542270; teamID='NQP7F5W2P4', teamName='Srinivasu Sunkara', teamType='Individual', username='vasu@vanthena.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8a8857fd90; archive = '<IDEArchive: 0x7f8a70757940>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a887a91e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8a85542270; teamID='NQP7F5W2P4', teamName='Srinivasu Sunkara', teamType='Individual', username='vasu@vanthena.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8a855e9d60; archive = '<IDEArchive: 0x7f8a70757940>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a887a91e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8a85542270; teamID='NQP7F5W2P4', teamName='Srinivasu Sunkara', teamType='Individual', username='vasu@vanthena.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8a8559c490; archive = '<IDEArchive: 0x7f8a70757940>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a887a91e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8a85542270; teamID='NQP7F5W2P4', teamName='Srinivasu Sunkara', teamType='Individual', username='vasu@vanthena.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8a85592770; archive = '<IDEArchive: 0x7f8a70757940>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a887a91e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8a85542270; teamID='NQP7F5W2P4', teamName='Srinivasu Sunkara', teamType='Individual', username='vasu@vanthena.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8a860816c0; archive = '<IDEArchive: 0x7f8a70757940>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a887a91e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f8a85542270; teamID='NQP7F5W2P4', teamName='Srinivasu Sunkara', teamType='Individual', username='vasu@vanthena.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8a7103e170; archive = '<IDEArchive: 0x7f8a70757940>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a887a91e0>', team='(null)'>
+	<IDEDistributionContext: 0x7f8a716b5ee0; archive = '<IDEArchive: 0x7f8a70757940>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8a887a91e0>', team='(null)'>
+	<IDEDistributionContext: 0x7f8a71676da0; archive = '<IDEArchive: 0x7f8a70757940>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7f8a855142d0>
+2021-12-07 20:25:39 +0000  Processing step: IDEDistributionCreateDestRootStep
+2021-12-07 20:25:39 +0000  Processing step: IDEDistributionCopyItemStep
+2021-12-07 20:25:39 +0000  Running /usr/bin/ditto '-V' '/Users/ancadreghiciu/Library/Developer/Xcode/Archives/2021-12-07/IOSApp 12-7-21, 10.24 PM.xcarchive/Products/Applications/IOSApp.app' '/var/folders/_q/0vhk4vnx3pq4b4hgmz2d4_3h0000gn/T/XcodeDistPipeline.~~~irGj0W/Root/Payload/IOSApp.app'
+2021-12-07 20:25:39 +0000  >>> Copying /Users/ancadreghiciu/Library/Developer/Xcode/Archives/2021-12-07/IOSApp 12-7-21, 10.24 PM.xcarchive/Products/Applications/IOSApp.app 
+2021-12-07 20:25:39 +0000  copying file ./_CodeSignature/CodeResources ... 
+2021-12-07 20:25:39 +0000  6555 bytes for ./_CodeSignature/CodeResources
+2021-12-07 20:25:39 +0000  copying file ./AppIcon60x60@2x.png ... 
+2021-12-07 20:25:39 +0000  4407 bytes for ./AppIcon60x60@2x.png
+copying file ./IOSApp ... 
+2021-12-07 20:25:39 +0000  507424 bytes for ./IOSApp
+2021-12-07 20:25:39 +0000  copying file ./Base.lproj/Main.storyboardc/UINavigationController-GWJ-DO-7hi.nib ... 
+2021-12-07 20:25:39 +0000  3883 bytes for ./Base.lproj/Main.storyboardc/UINavigationController-GWJ-DO-7hi.nib
+2021-12-07 20:25:39 +0000  copying file ./Base.lproj/Main.storyboardc/account.nib ... 
+2021-12-07 20:25:39 +0000  1426 bytes for ./Base.lproj/Main.storyboardc/account.nib
+copying file ./Base.lproj/Main.storyboardc/UkC-oB-q4r-view-6rv-Gv-uCK.nib ... 
+2021-12-07 20:25:39 +0000  4999 bytes for ./Base.lproj/Main.storyboardc/UkC-oB-q4r-view-6rv-Gv-uCK.nib
+2021-12-07 20:25:39 +0000  copying file ./Base.lproj/Main.storyboardc/publicFeed.nib ... 
+2021-12-07 20:25:39 +0000  1366 bytes for ./Base.lproj/Main.storyboardc/publicFeed.nib
+2021-12-07 20:25:39 +0000  copying file ./Base.lproj/Main.storyboardc/transaction.nib ... 
+2021-12-07 20:25:39 +0000  1103 bytes for ./Base.lproj/Main.storyboardc/transaction.nib
+copying file ./Base.lproj/Main.storyboardc/lhg-T0-l7e-view-ULa-0G-3AO.nib ... 
+2021-12-07 20:25:39 +0000  11622 bytes for ./Base.lproj/Main.storyboardc/lhg-T0-l7e-view-ULa-0G-3AO.nib
+2021-12-07 20:25:39 +0000  copying file ./Base.lproj/Main.storyboardc/sendReceive.nib ... 
+2021-12-07 20:25:39 +0000  1915 bytes for ./Base.lproj/Main.storyboardc/sendReceive.nib
+2021-12-07 20:25:39 +0000  copying file ./Base.lproj/Main.storyboardc/cwa-my-35S-view-FTR-xR-xIn.nib ... 
+2021-12-07 20:25:39 +0000  2217 bytes for ./Base.lproj/Main.storyboardc/cwa-my-35S-view-FTR-xR-xIn.nib
+2021-12-07 20:25:39 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2021-12-07 20:25:39 +0000  8570 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2021-12-07 20:25:39 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2021-12-07 20:25:39 +0000  395 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2021-12-07 20:25:39 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2021-12-07 20:25:39 +0000  1197 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2021-12-07 20:25:39 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-12-07 20:25:39 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2021-12-07 20:25:39 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2021-12-07 20:25:39 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2021-12-07 20:25:39 +0000  copying file ./Assets.car ... 
+2021-12-07 20:25:39 +0000  862248 bytes for ./Assets.car
+2021-12-07 20:25:39 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2021-12-07 20:25:39 +0000  6787 bytes for ./AppIcon76x76@2x~ipad.png
+2021-12-07 20:25:39 +0000  copying file ./embedded.mobileprovision ... 
+2021-12-07 20:25:39 +0000  12057 bytes for ./embedded.mobileprovision
+2021-12-07 20:25:39 +0000  copying file ./Info.plist ... 
+2021-12-07 20:25:39 +0000  1639 bytes for ./Info.plist
+2021-12-07 20:25:39 +0000  copying file ./PkgInfo ... 
+2021-12-07 20:25:39 +0000  8 bytes for ./PkgInfo
+2021-12-07 20:25:39 +0000  /usr/bin/ditto exited with 0
+2021-12-07 20:25:39 +0000  Processing step: IDEDistributionEmbedProfileStep
+2021-12-07 20:25:39 +0000  Processing step: IDEDistributionInfoPlistStep
+2021-12-07 20:25:39 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-12-07 20:25:39 +0000  Processing step: IDEDistributionItemRemovalStep
+2021-12-07 20:25:39 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2021-12-07 20:25:39 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2021-12-07 20:25:39 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2021-12-07 20:25:39 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2021-12-07 20:25:39 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2021-12-07 20:25:39 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/_q/0vhk4vnx3pq4b4hgmz2d4_3h0000gn/T/XcodeDistPipeline.~~~irGj0W/Root/Payload/IOSApp.app/IOSApp' '-l' '-o' '/var/folders/_q/0vhk4vnx3pq4b4hgmz2d4_3h0000gn/T/XcodeDistPipeline.~~~irGj0W/Root/Payload/IOSApp.app/IOSApp'
+2021-12-07 20:25:39 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-12-07 20:25:39 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2021-12-07 20:25:39 +0000  Running /usr/bin/ditto '-V' '/Users/ancadreghiciu/Library/Developer/Xcode/Archives/2021-12-07/IOSApp 12-7-21, 10.24 PM.xcarchive/BCSymbolMaps/F2C7448F-1203-33C5-9771-C8B462A9C2D4.bcsymbolmap' '/var/folders/_q/0vhk4vnx3pq4b4hgmz2d4_3h0000gn/T/XcodeDistPipeline.~~~irGj0W/Root/BCSymbolMaps/F2C7448F-1203-33C5-9771-C8B462A9C2D4.bcsymbolmap'
+2021-12-07 20:25:39 +0000  >>> Copying /Users/ancadreghiciu/Library/Developer/Xcode/Archives/2021-12-07/IOSApp 12-7-21, 10.24 PM.xcarchive/BCSymbolMaps/F2C7448F-1203-33C5-9771-C8B462A9C2D4.bcsymbolmap 
+2021-12-07 20:25:39 +0000  copying file ./F2C7448F-1203-33C5-9771-C8B462A9C2D4.bcsymbolmap ... 
+2021-12-07 20:25:39 +0000  30688 bytes for ./F2C7448F-1203-33C5-9771-C8B462A9C2D4.bcsymbolmap
+2021-12-07 20:25:39 +0000  /usr/bin/ditto exited with 0
+2021-12-07 20:25:39 +0000  Processing step: IDEDistributionSymbolsStep
+2021-12-07 20:25:39 +0000  Excluding symbols for IOSApp.app
+2021-12-07 20:25:39 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2021-12-07 20:25:39 +0000  Processing step: IDEDistributionAppThinningStep
+2021-12-07 20:25:39 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2021-12-07 20:25:39 +0000  Processing step: IDEDistributionArchThinningStep
+2021-12-07 20:25:39 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/_q/0vhk4vnx3pq4b4hgmz2d4_3h0000gn/T/XcodeDistPipeline.~~~irGj0W/Root/Payload/IOSApp.app/IOSApp' '-verify_arch' 'arm64e'
+2021-12-07 20:25:39 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-12-07 20:25:39 +0000  Skipping architecture thinning for item "IOSApp" because arch "arm64e" wasn't found
+2021-12-07 20:25:39 +0000  Processing step: IDEDistributionODRStep
+2021-12-07 20:25:39 +0000  Processing step: IDEDistributionStripXattrsStep
+2021-12-07 20:25:39 +0000  Running /usr/bin/xattr '-crs' '/var/folders/_q/0vhk4vnx3pq4b4hgmz2d4_3h0000gn/T/XcodeDistPipeline.~~~irGj0W/Root/Payload/IOSApp.app'
+2021-12-07 20:25:39 +0000  /usr/bin/xattr exited with 0
+2021-12-07 20:25:39 +0000  Processing step: IDEDistributionCodesignStep
+2021-12-07 20:25:39 +0000  Entitlements for <IDEDistributionItem: 0x7f8aa3bcefb0; bundleID='com.sunkara.phoenix', path='<DVTFilePath:0x7f8a6fc50c80:'/Users/ancadreghiciu/Library/Developer/Xcode/Archives/2021-12-07/IOSApp 12-7-21, 10.24 PM.xcarchive/Products/Applications/IOSApp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a713188c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a7108aa60; name='Apple Development: Srinivasu Sunkara (TX434NJ487)', hash='C8AFE4AE54C59925A7AFB17BE04828BF1948ED29', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f8a71086f70>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-12-02 20:03:26 +0000''>', entitlements='{
+    "application-identifier" = "NQP7F5W2P4.com.sunkara.phoenix";
+    "com.apple.developer.team-identifier" = NQP7F5W2P4;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "NQP7F5W2P4.com.sunkara.phoenix"
+    );
+}', teamID='NQP7F5W2P4', identifier='com.sunkara.phoenix', executablePath='<DVTFilePath:0x7f8aa4998540:'/Users/ancadreghiciu/Library/Developer/Xcode/Archives/2021-12-07/IOSApp 12-7-21, 10.24 PM.xcarchive/Products/Applications/IOSApp.app/IOSApp'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "NQP7F5W2P4.com.sunkara.phoenix";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = NQP7F5W2P4;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "NQP7F5W2P4.com.sunkara.phoenix"
+    );
+}
+2021-12-07 20:25:39 +0000  Entitlements for <IDEDistributionItem: 0x7f8aa3bcefb0; bundleID='com.sunkara.phoenix', path='<DVTFilePath:0x7f8a6fc50c80:'/Users/ancadreghiciu/Library/Developer/Xcode/Archives/2021-12-07/IOSApp 12-7-21, 10.24 PM.xcarchive/Products/Applications/IOSApp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a713188c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a706ad3b0; name='Apple Development: Srinivasu Sunkara (TX434NJ487)', hash='C8AFE4AE54C59925A7AFB17BE04828BF1948ED29', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f8a83043fd0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-12-02 20:03:26 +0000''>', entitlements='{
+    "application-identifier" = "NQP7F5W2P4.com.sunkara.phoenix";
+    "com.apple.developer.team-identifier" = NQP7F5W2P4;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "NQP7F5W2P4.com.sunkara.phoenix"
+    );
+}', teamID='NQP7F5W2P4', identifier='com.sunkara.phoenix', executablePath='<DVTFilePath:0x7f8aa4998540:'/Users/ancadreghiciu/Library/Developer/Xcode/Archives/2021-12-07/IOSApp 12-7-21, 10.24 PM.xcarchive/Products/Applications/IOSApp.app/IOSApp'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "NQP7F5W2P4.com.sunkara.phoenix";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = NQP7F5W2P4;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "NQP7F5W2P4.com.sunkara.phoenix"
+    );
+}
+2021-12-07 20:25:39 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8aa3bcefb0; bundleID='com.sunkara.phoenix', path='<DVTFilePath:0x7f8a6fc50c80:'/Users/ancadreghiciu/Library/Developer/Xcode/Archives/2021-12-07/IOSApp 12-7-21, 10.24 PM.xcarchive/Products/Applications/IOSApp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8a713188c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8a70663cb0; name='Apple Development: Srinivasu Sunkara (TX434NJ487)', hash='C8AFE4AE54C59925A7AFB17BE04828BF1948ED29', serialNumber='<DVTSigningCertificateSerialNumber: 0x7f8a83063a00>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-12-02 20:03:26 +0000''>', entitlements='{
+    "application-identifier" = "NQP7F5W2P4.com.sunkara.phoenix";
+    "com.apple.developer.team-identifier" = NQP7F5W2P4;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "NQP7F5W2P4.com.sunkara.phoenix"
+    );
+}', teamID='NQP7F5W2P4', identifier='com.sunkara.phoenix', executablePath='<DVTFilePath:0x7f8aa4998540:'/Users/ancadreghiciu/Library/Developer/Xcode/Archives/2021-12-07/IOSApp 12-7-21, 10.24 PM.xcarchive/Products/Applications/IOSApp.app/IOSApp'>', hardenedRuntime='0'>'> to: /var/folders/_q/0vhk4vnx3pq4b4hgmz2d4_3h0000gn/T/XcodeDistPipeline.~~~irGj0W/entitlements~~~pGn6cK
+2021-12-07 20:25:39 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '23BCDF1E11ECF174F8437A5E58784158CD08C33D' '--entitlements' '/var/folders/_q/0vhk4vnx3pq4b4hgmz2d4_3h0000gn/T/XcodeDistPipeline.~~~irGj0W/entitlements~~~pGn6cK' '--preserve-metadata=identifier,flags,runtime' '/var/folders/_q/0vhk4vnx3pq4b4hgmz2d4_3h0000gn/T/XcodeDistPipeline.~~~irGj0W/Root/Payload/IOSApp.app'
+2021-12-07 20:25:45 +0000  /var/folders/_q/0vhk4vnx3pq4b4hgmz2d4_3h0000gn/T/XcodeDistPipeline.~~~irGj0W/Root/Payload/IOSApp.app: signed app bundle with Mach-O thin (arm64) [com.sunkara.phoenix]
+2021-12-07 20:25:45 +0000  /usr/bin/codesign exited with 0
+2021-12-07 20:25:45 +0000  Processing step: IDEDistributionZipODRItemStep
+2021-12-07 20:25:45 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-12-07 20:25:45 +0000  Processing step: IDEDistributionCreateIPAStep
+2021-12-07 20:25:45 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/_q/0vhk4vnx3pq4b4hgmz2d4_3h0000gn/T/XcodeDistPipeline.~~~irGj0W/Root' '/var/folders/_q/0vhk4vnx3pq4b4hgmz2d4_3h0000gn/T/XcodeDistPipeline.~~~irGj0W/Packages/IOSApp.ipa'
+2021-12-07 20:25:45 +0000  >>> Copying /var/folders/_q/0vhk4vnx3pq4b4hgmz2d4_3h0000gn/T/XcodeDistPipeline.~~~irGj0W/Root 
+2021-12-07 20:25:45 +0000  copying file ./BCSymbolMaps/F2C7448F-1203-33C5-9771-C8B462A9C2D4.bcsymbolmap ... 
+2021-12-07 20:25:45 +0000  30688 bytes for ./BCSymbolMaps/F2C7448F-1203-33C5-9771-C8B462A9C2D4.bcsymbolmap
+2021-12-07 20:25:45 +0000  copying file ./Payload/IOSApp.app/_CodeSignature/CodeResources ... 
+2021-12-07 20:25:45 +0000  6555 bytes for ./Payload/IOSApp.app/_CodeSignature/CodeResources
+2021-12-07 20:25:45 +0000  copying file ./Payload/IOSApp.app/AppIcon60x60@2x.png ... 
+2021-12-07 20:25:45 +0000  4407 bytes for ./Payload/IOSApp.app/AppIcon60x60@2x.png
+copying file ./Payload/IOSApp.app/IOSApp ... 
+2021-12-07 20:25:45 +0000  407728 bytes for ./Payload/IOSApp.app/IOSApp
+2021-12-07 20:25:45 +0000  copying file ./Payload/IOSApp.app/Base.lproj/Main.storyboardc/UINavigationController-GWJ-DO-7hi.nib ... 
+2021-12-07 20:25:45 +0000  3883 bytes for ./Payload/IOSApp.app/Base.lproj/Main.storyboardc/UINavigationController-GWJ-DO-7hi.nib
+copying file ./Payload/IOSApp.app/Base.lproj/Main.storyboardc/account.nib ... 
+1426 bytes for ./Payload/IOSApp.app/Base.lproj/Main.storyboardc/account.nib
+2021-12-07 20:25:45 +0000  copying file ./Payload/IOSApp.app/Base.lproj/Main.storyboardc/UkC-oB-q4r-view-6rv-Gv-uCK.nib ... 
+2021-12-07 20:25:45 +0000  4999 bytes for ./Payload/IOSApp.app/Base.lproj/Main.storyboardc/UkC-oB-q4r-view-6rv-Gv-uCK.nib
+copying file ./Payload/IOSApp.app/Base.lproj/Main.storyboardc/publicFeed.nib ... 
+2021-12-07 20:25:45 +0000  1366 bytes for ./Payload/IOSApp.app/Base.lproj/Main.storyboardc/publicFeed.nib
+2021-12-07 20:25:45 +0000  copying file ./Payload/IOSApp.app/Base.lproj/Main.storyboardc/transaction.nib ... 
+1103 bytes for ./Payload/IOSApp.app/Base.lproj/Main.storyboardc/transaction.nib
+2021-12-07 20:25:45 +0000  copying file ./Payload/IOSApp.app/Base.lproj/Main.storyboardc/lhg-T0-l7e-view-ULa-0G-3AO.nib ... 
+2021-12-07 20:25:45 +0000  11622 bytes for ./Payload/IOSApp.app/Base.lproj/Main.storyboardc/lhg-T0-l7e-view-ULa-0G-3AO.nib
+copying file ./Payload/IOSApp.app/Base.lproj/Main.storyboardc/sendReceive.nib ... 
+2021-12-07 20:25:45 +0000  1915 bytes for ./Payload/IOSApp.app/Base.lproj/Main.storyboardc/sendReceive.nib
+copying file ./Payload/IOSApp.app/Base.lproj/Main.storyboardc/cwa-my-35S-view-FTR-xR-xIn.nib ... 
+2021-12-07 20:25:45 +0000  2217 bytes for ./Payload/IOSApp.app/Base.lproj/Main.storyboardc/cwa-my-35S-view-FTR-xR-xIn.nib
+copying file ./Payload/IOSApp.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2021-12-07 20:25:45 +0000  8570 bytes for ./Payload/IOSApp.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/IOSApp.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2021-12-07 20:25:45 +0000  395 bytes for ./Payload/IOSApp.app/Base.lproj/Main.storyboardc/Info.plist
+copying file ./Payload/IOSApp.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2021-12-07 20:25:45 +0000  1197 bytes for ./Payload/IOSApp.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/IOSApp.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-12-07 20:25:45 +0000  896 bytes for ./Payload/IOSApp.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2021-12-07 20:25:45 +0000  copying file ./Payload/IOSApp.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+258 bytes for ./Payload/IOSApp.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/IOSApp.app/Assets.car ... 
+2021-12-07 20:25:45 +0000  862248 bytes for ./Payload/IOSApp.app/Assets.car
+copying file ./Payload/IOSApp.app/AppIcon76x76@2x~ipad.png ... 
+2021-12-07 20:25:45 +0000  6787 bytes for ./Payload/IOSApp.app/AppIcon76x76@2x~ipad.png
+copying file ./Payload/IOSApp.app/embedded.mobileprovision ... 
+2021-12-07 20:25:45 +0000  12527 bytes for ./Payload/IOSApp.app/embedded.mobileprovision
+copying file ./Payload/IOSApp.app/Info.plist ... 
+2021-12-07 20:25:45 +0000  1639 bytes for ./Payload/IOSApp.app/Info.plist
+copying file ./Payload/IOSApp.app/PkgInfo ... 
+2021-12-07 20:25:45 +0000  8 bytes for ./Payload/IOSApp.app/PkgInfo
+2021-12-07 20:25:45 +0000  /usr/bin/ditto exited with 0
+2021-12-07 20:25:45 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2021-12-07 20:25:45 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2021-12-07 20:25:45 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2021-12-07 20:25:45 +0000  IDEDistributionItem init <DVTFilePath:0x7f8a812ee9a0:'/var/folders/_q/0vhk4vnx3pq4b4hgmz2d4_3h0000gn/T/XcodeDistPipeline.~~~irGj0W/Root/Payload/IOSApp.app'>
+2021-12-07 20:25:45 +0000  Processing step: IDEDistributionCreateManifestStep
+2021-12-07 20:25:45 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
