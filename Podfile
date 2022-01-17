@@ -6,6 +6,8 @@ target 'IOSApp' do
   use_frameworks!
 
   # Pods for IOSApp
-pod 'web3swift', :git => 'https://github.com/MercuryProtocol/web3.swift.git', :branch => 'master'
-
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '9.0'
+   use_frameworks!
+    pod 'web3swift'
 end

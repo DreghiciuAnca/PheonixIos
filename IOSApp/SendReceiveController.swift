@@ -1,6 +1,5 @@
 import UIKit
-
-import Geth
+import web3swift
 
 let newspaper = "newspaper.circle"
 
